@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "class Book __cdecl justdoit(void)" (?justdoit@@YA?AVBook@@XZ) referenced in function _main
+C:\Users\Gregory Schamberger\Documents\Programming\C++ programs\strostrup book\BookClass\Debug\BookClass.exe : fatal error LNK1120: 1 unresolved externals
